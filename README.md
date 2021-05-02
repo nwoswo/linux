@@ -5,7 +5,7 @@
 
 ## List
 <a name="list">
-ls -lh  ---> tamaño ordenado  
+ls -lh  ---> tamaño ordenado
   
 ls -lr  --> inversa  
 
