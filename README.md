@@ -8,7 +8,7 @@
 ls -lh  ---> tamaño ordenado
   
 ls -lr  --> inversa  
-
+  
 ls -lS  --> alfaveticamente  
 
 crtl + r , buscar comandos  
