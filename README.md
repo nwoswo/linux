@@ -19,7 +19,6 @@ history --> muestra el historial de instrucciones
 ## Folder
 <a name="folder">
   
-  mkdir -p dir1/fotos   -->crea ambas carpetas  
-
-  rm - r dir1/fotos  --> borra fotos  
+mkdir -p dir1/fotos   -->crea ambas carpetas  
+rm - r dir1/fotos  --> borra fotos
 </a>
