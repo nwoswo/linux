@@ -5,13 +5,15 @@
 
 ## List
 <a name="list">
-  ls -lh  ---> tamaño ordenado  
-  ls -lr  --> inversa  
-  ls -lS  --> alfaveticamente  
+ls -lh  ---> tamaño ordenado  
+ls -lr  --> inversa  
+  
+ls -lS  --> alfaveticamente  
+  
 
-  crtl + r , buscar comandos  
+crtl + r , buscar comandos  
 
-  history --> muestra el historial de instrucciones  
+history --> muestra el historial de instrucciones  
 </a>
 
 ## Folder
